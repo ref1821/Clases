@@ -1,9 +1,10 @@
 import React from 'react'
+import './l.css'
 const Linkss = (props) => {
     
     return (
-        <div>
-            <a href={props.name}>{props.title}</a>
+        <div className="container">
+            <a className="am" href={props.name}>{props.title}</a>
         </div>
     )
 }

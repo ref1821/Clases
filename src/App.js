@@ -9,7 +9,7 @@ function App() {
       <Linkss name='' title='Salud'/>
       <Linkss name='https://meet.google.com/lookup/atua7sawbd?authuser=1&hs=179' title='EF (pesas)'/>
       <Linkss name='' title='Química'/>
-      <Linkss name='https://meet.google.com/lookup/ebia5pxfzj?authuser=1&hs=179' title='OEducativa'/>
+      <Linkss name='https://meet.google.com/lookup/ebia5pxfzj?authuser=1&hs=179' title='O Educativa'/>
       <Linkss name='https://meet.google.com/lookup/hy4pgyg2e2?authuser=1&hs=179' title='Mate'/>
       <Linkss name='' title='Info'/>
       <Linkss name='https://meet.google.com/lookup/dp6da6chip?authuser=1&hs=179' title='Etimologias'/>
