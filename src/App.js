@@ -15,7 +15,7 @@ function App() {
       <Linkss name='https://meet.google.com/lookup/dp6da6chip?authuser=1&hs=179' title='Etimologias'/>
       <Linkss name='https://meet.google.com/lookup/bfsa5irwiy?authuser=1&hs=179' title='Lite'/>
       <Linkss name='https://meet.google.com/lookup/f3odnbjirx?authuser=1&hs=179' title='Ética'/>
-      <Linkss name='' title='Inglés'/>
+      <Linkss name='https://meet.google.com/lookup/czw2nzjtnd?authuser=1&hs=179' title='Inglés'/>
       <Linkss name='https://meet.google.com/lookup/c4vqtwx3r6?authuser=1&hs=179' title='Historia'/>
     </div>
   );
