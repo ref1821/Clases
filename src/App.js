@@ -1,23 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Linkss from'./components/Links'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Linkss name='https://meet.google.com/lookup/gklvgrel5x' title='FH'/>
+      <Linkss name='https://meet.google.com/lookup/guigsb6eci?authuser=1&hs=179' title='Biologia'/>
+      <Linkss name='' title='Teatro'/>
+      <Linkss name='' title='Salud'/>
+      <Linkss name='https://meet.google.com/lookup/atua7sawbd?authuser=1&hs=179' title='EF (pesas)'/>
+      <Linkss name='' title='Química'/>
+      <Linkss name='https://meet.google.com/lookup/ebia5pxfzj?authuser=1&hs=179' title='OEducativa'/>
+      <Linkss name='https://meet.google.com/lookup/hy4pgyg2e2?authuser=1&hs=179' title='Mate'/>
+      <Linkss name='' title='Info'/>
+      <Linkss name='https://meet.google.com/lookup/dp6da6chip?authuser=1&hs=179' title='Etimologias'/>
+      <Linkss name='https://meet.google.com/lookup/bfsa5irwiy?authuser=1&hs=179' title='Lite'/>
+      <Linkss name='https://meet.google.com/lookup/f3odnbjirx?authuser=1&hs=179' title='Ética'/>
+      <Linkss name='' title='Inglés'/>
+      <Linkss name='https://meet.google.com/lookup/c4vqtwx3r6?authuser=1&hs=179' title='Historia'/>
     </div>
   );
 }
