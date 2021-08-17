@@ -5,8 +5,8 @@ function App() {
     <div className="App">
       <Linkss name='https://meet.google.com/lookup/gklvgrel5x' title='FH'/>
       <Linkss name='https://meet.google.com/lookup/guigsb6eci?authuser=1&hs=179' title='Biologia'/>
-      <Linkss name='' title='Teatro'/>
-      <Linkss name='' title='Salud'/>
+      <Linkss name='https://meet.google.com/lookup/gwrmqgb43k?authuser=1&hs=179' title='Teatro'/>
+      <Linkss name='https://meet.google.com/lookup/ciaf377gae?authuser=1&hs=179' title='Salud'/>
       <Linkss name='https://meet.google.com/lookup/atua7sawbd?authuser=1&hs=179' title='EF (pesas)'/>
       <Linkss name='https://meet.google.com/lookup/eqb2czvuzm?authuser=1&hs=179' title='Química'/>
       <Linkss name='https://meet.google.com/lookup/ebia5pxfzj?authuser=1&hs=179' title='O Educativa'/>
